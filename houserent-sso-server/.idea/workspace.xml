@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="782a6a37-9243-4678-9423-69066e135e2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\s3hdi8\apache-maven-3.8.4\MavenRepository" />
+        <option name="mavenHome" value="C:\Users\s3hdi8\apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="C:\Users\s3hdi8\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwJIZodWhGXwiYIYJttss2y6hL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/项目文件/6.CEMP网关admin-ResouceCode前端开发/B2C_APP_GW_PLATFORM-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxxx.springsecurityoauth2demo.handler" />
+      <recent name="com.xxxx.springsecurityoauth2demo.backup" />
+      <recent name="com.xxxx.springsecurityoauth2demo.config" />
+      <recent name="com.xxxx.springsecurityoauth2demo.pojo.dto" />
+      <recent name="com.xxxx.springsecurityoauth2demo.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s3hdi8\IdeaProjects\houserent-sso-server\src\main\resources" />
+      <recent name="C:\Users\s3hdi8\IdeaProjects\houserent-sso-server\src\main\java\com\xxxx\springsecurityoauth2demo" />
+      <recent name="C:\Users\s3hdi8\IdeaProjects\houserent-sso-server\src\main\java\com\xxxx\springsecurityoauth2demo\service" />
+      <recent name="C:\Users\s3hdi8\IdeaProjects\houserent-sso-server\src\main\java\com\xxxx\springsecurityoauth2demo\pojo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Springsecurityoauth2DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurityoauth2-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.springsecurityoauth2demo.Springsecurityoauth2DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="782a6a37-9243-4678-9423-69066e135e2d" name="Default Changelist" comment="" />
+      <created>1583847643308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583847643308</updated>
+      <workItem from="1583847644580" duration="5052000" />
+      <workItem from="1583913222088" duration="3621000" />
+      <workItem from="1583916925400" duration="1348000" />
+      <workItem from="1657521043832" duration="7805000" />
+      <workItem from="1657678268949" duration="10308000" />
+      <workItem from="1657695356846" duration="4266000" />
+      <workItem from="1657760277087" duration="8970000" />
+      <workItem from="1657847269137" duration="2442000" />
+      <workItem from="1658065609575" duration="44545000" />
+      <workItem from="1658638113469" duration="1195000" />
+      <workItem from="1658651999825" duration="1437000" />
+      <workItem from="1658666777604" duration="1591000" />
+      <workItem from="1658722998496" duration="1234000" />
+      <workItem from="1658984743987" duration="18935000" />
+      <workItem from="1659419665167" duration="6441000" />
+      <workItem from="1660547367121" duration="120000" />
+      <workItem from="1660889482862" duration="762000" />
+      <workItem from="1660891797934" duration="697000" />
+      <workItem from="1660896855676" duration="1388000" />
+      <workItem from="1661130176416" duration="1057000" />
+      <workItem from="1661133748264" duration="1747000" />
+      <workItem from="1661138416007" duration="626000" />
+      <workItem from="1661238568414" duration="1000" />
+      <workItem from="1661240944632" duration="2037000" />
+      <workItem from="1661595888335" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657521479472">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="361" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.920@0.0.1536.920" timestamp="1657521479472" />
+    <state x="574" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1658477770570">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="574" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1536.920@0.0.1536.920" timestamp="1658477770570" />
+    <state x="531" y="329" width="476" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1658125231794">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="531" y="329" width="476" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.920@0.0.1536.920" timestamp="1658125231794" />
+    <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1659083097902">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.920@0.0.1536.920" timestamp="1659083097902" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1658297997433">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1536.920@0.0.1536.920" timestamp="1658297997433" />
+    <state x="548" y="215" key="FileChooserDialogImpl" timestamp="1658449906871">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="548" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1658449906871" />
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="343" key="GridCell.Tab.0.center" timestamp="1661243190312">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1661243190312" />
+    <state width="1493" height="343" key="GridCell.Tab.0.left" timestamp="1661243190312">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1661243190312" />
+    <state width="1493" height="343" key="GridCell.Tab.0.right" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="343" key="GridCell.Tab.1.bottom" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="343" key="GridCell.Tab.1.center" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="343" key="GridCell.Tab.1.left" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="343" key="GridCell.Tab.1.right" timestamp="1661243190328">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="526" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1658666591565" />
+    <state width="1493" height="343" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1661243190328" />
+    <state width="1493" height="260" key="GridCell.Tab.2.bottom" timestamp="1658477594471">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658323090833" />
+    <state width="1493" height="260" key="GridCell.Tab.2.bottom/0.0.1536.920@0.0.1536.920" timestamp="1658477594471" />
+    <state width="1493" height="260" key="GridCell.Tab.2.center" timestamp="1658477594471">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1658323090833" />
+    <state width="1493" height="260" key="GridCell.Tab.2.center/0.0.1536.920@0.0.1536.920" timestamp="1658477594471" />
+    <state width="1493" height="260" key="GridCell.Tab.2.left" timestamp="1658477594471">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1658323090833" />
+    <state width="1493" height="260" key="GridCell.Tab.2.left/0.0.1536.920@0.0.1536.920" timestamp="1658477594471" />
+    <state width="1493" height="260" key="GridCell.Tab.2.right" timestamp="1658477594471">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1658323090833" />
+    <state width="1493" height="260" key="GridCell.Tab.2.right/0.0.1536.920@0.0.1536.920" timestamp="1658477594471" />
+    <state x="277" y="105" key="SettingsEditor" timestamp="1657521089731">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="277" y="105" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1657521089731" />
+    <state x="596" y="336" width="344" height="324" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1657777356651">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="596" y="336" width="344" height="324" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.0.1536.920@0.0.1536.920" timestamp="1657777356651" />
+    <state x="612" y="233" width="621" height="566" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1657777400423">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="612" y="233" width="621" height="566" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.920@0.0.1536.920" timestamp="1657777400423" />
+    <state x="478" y="193" width="579" height="534" key="find.popup" timestamp="1661242776594">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="478" y="193" width="579" height="534" key="find.popup/0.0.1536.920@0.0.1536.920" timestamp="1661242776594" />
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1658454505542">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1536.920@0.0.1536.920" timestamp="1658454505542" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/apache-maven-3.8.4/MavenRepository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java</url>
+          <line>461</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.security.web.firewall.FirewalledResponse" memberName="response" />
+        <PinnedItemInfo parentTag="org.springframework.security.web.context.HttpSessionSecurityContextRepository$SaveToSessionRequestWrapper" memberName="response" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
