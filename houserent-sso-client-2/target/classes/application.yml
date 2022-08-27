@@ -1,0 +1,23 @@
+server:
+  port: 8088
+
+  servlet:
+    session:
+      cookie:
+        name: OAUTH2-CLIENT-SESSIONID01
+#    context-path: /api
+security:
+
+  oauth2:
+    client:
+      client-id: admin
+      client-secret: 112233
+      user-authorization-uri: http://localhost:8080/oauth/authorize
+      access-token-uri: http://localhost:8080/oauth/token
+    #      registered-redirect-uri: http://localhost:9092/#/home
+#      pre-established-redirect-uri: http://localhost:9092/#/404
+#      use-current-uri: false
+#      registered-redirect-uri: http://localhost:8088/login
+    resource:
+      jwt:
+        key-uri:  http://localhost:8080/oauth/token_key
